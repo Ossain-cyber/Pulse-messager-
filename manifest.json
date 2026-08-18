@@ -1,0 +1,17 @@
+{
+  "name": "Pulse Messenger",
+  "short_name": "Pulse",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#080a0d",
+  "theme_color": "#0b0d10",
+  "description": "A lightweight private messenger built for simple, direct communication.",
+  "icons": [
+    {
+      "src": "pulse-icon.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
